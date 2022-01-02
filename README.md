@@ -16,7 +16,7 @@ Some pictures of the project are given below to understand the project. <i>Pleas
 <img src="https://github.com/Raiyan13/Air-Plane-Simulation-Game/blob/master/screenshorts/Cloud.png" alt="Cloud" width="650px">
 <h4>Buildings</h4>
 <img src="https://github.com/Raiyan13/Air-Plane-Simulation-Game/blob/master/screenshorts/Building1.png" alt="Building_1" width="650px">
-<img src="https://github.com/Raiyan13/Air-Plane-Simulation-Game/blob/master/screenshorts/Building2.png" alt="Building_2" width="600px">
+<img src="https://github.com/Raiyan13/Air-Plane-Simulation-Game/blob/master/screenshorts/Building2.png" alt="Building_2" width="650px">
 <hr>
 <h3>After Game Over</h3>
 <img src="https://github.com/Raiyan13/Air-Plane-Simulation-Game/blob/master/screenshorts/EndPage.JPG" alt="EndPage" width="650px">
