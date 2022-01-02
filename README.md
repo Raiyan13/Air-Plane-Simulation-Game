@@ -1,6 +1,6 @@
 # Airplane Simulation Game
 
-<h3>A Glut Project Using C++</h3>
+<h3>A GLUT Project Using C++</h3>
 <p>This is a basically a simulation game where player have to avoid the obstacles(building, cloud, ground) and fly the plane.
 There is some levels where the plane speed will increase in every level. The game can be played with mouse only. Left mouse button click will
 make the altitude higher of the plane and doing nothing will make the altitude lower. The right mouse button click will increase the speed of
